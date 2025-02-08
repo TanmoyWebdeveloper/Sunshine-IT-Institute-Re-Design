@@ -1,0 +1,1171 @@
+@media only screen and (max-width: 1600px) {
+    .container {
+        padding-inline: 70px;
+    }
+
+    .banner-section .hero-text {
+        margin-top: 120px;
+    }
+
+    .banner-section .hero-text h1 {
+        font-size: 90px;
+    }
+
+    .banner-section .hero-text h1 span {
+        font-size: 103px;
+    }
+
+    .banner-section .hero-text p {
+        font-size: 22px;
+    }  
+
+    .buttom-card-section .all-card {
+        top: -51px;
+    }
+
+    .populer-courses-section .all-content .slide-circle {
+        left: 191px;
+    }
+
+    .populer-courses-section  .all-content .slide-circle-2 {
+        right: 191px;
+    }
+
+    .side-image2 {
+        display: none;
+    }
+
+    .right-block {
+        z-index: 10;
+    }
+
+    /* .populer-courses-section .all-content  .slick-next i {
+        position: absolute;
+        top: 300px;
+        right: -31px;
+        padding: 5px 2px;
+        background-color: var(--primary-color);
+    } */
+
+}
+
+
+@media only screen and (max-width: 1440px) {
+
+    .banner-img {
+        height: 79vh;
+    }
+
+    .menu-section .right-block a {
+        padding: 14px 18px;
+    }
+
+    .menu-section {
+        padding: 10px 0;
+    }
+
+    .banner-section .hero-text {
+        margin-top: 102px;
+    }
+
+    .banner-section .hero-text h1 span {
+        font-size: 97px;
+    }
+
+    .banner-section .hero-text h1 {
+        font-size: 83px;
+    }
+
+    .banner-section .hero-text p {
+        font-size: 20px;
+    }
+
+    .banner-section .hero-text a {
+        padding: 16px 32px;
+    }
+
+    .buttom-card-section .all-card {
+        top: -30px;
+    }
+}
+
+@media only screen and (max-width: 1366px) {
+
+    .banner-img {
+        height: 78vh;
+    }
+
+    .stellarnav ul li a {
+        padding: 19px !important;
+    }
+
+    .banner-section .hero-text {
+        margin-top: 92px;
+    }
+
+    .banner-section .hero-text h1 span {
+        font-size: 90px;
+    }
+
+    .banner-section .hero-text h1 {
+        font-size: 78px;
+    }
+
+    .buttom-card-section .all-card {
+        top: -16px;
+    }
+
+}
+
+@media only screen and (max-width: 1280px) {
+
+    .banner-img {
+        height: 66vh;
+    }
+
+    .container {
+        padding-inline: 20px;
+    }
+
+    .stellarnav ul li a {
+        padding: 14px !important;
+        font-size: 16px;
+    }
+
+    .menu-section .right-block a {
+        padding: 12px 13px;
+    }
+
+    .banner-section .hero-text {
+        margin-top: 65px;
+    }
+
+    .banner-section .hero-text h1 {
+        font-size: 63px;
+        margin-bottom: 20px;
+    }
+
+    .banner-section .hero-text h1 span {
+        font-size: 78px;
+    }
+
+    .banner-section .hero-text p {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+
+    .banner-section .hero-text a {
+        padding: 13px 22px;
+    }
+
+    .about-section .right-block h3 {
+        font-size: 41px;
+        margin-bottom: 20px;
+    }
+
+    .about-section  .right-block .more-about-btn {
+        padding: 17px 28px;
+    }
+
+    .populer-courses-section .all-content h3 {
+        position: relative;
+        z-index: 9;
+    }
+
+    .populer-courses-section .all-content a {
+        position: relative;
+        z-index: 5;
+    }
+
+    .our-achievers-section h3 {
+        position: relative;
+        z-index: 9;
+    }
+
+    .side-image {
+        top: 1065px;
+    }
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+    .banner-img {
+        height: 62vh;
+    }
+
+    .stellarnav ul li a {
+        padding: 12px !important;
+        font-size: 16px;
+    }
+
+    element.style {
+        font-size: 14px;
+    }
+
+    .banner-section .hero-text {
+        margin-top: 56px;
+    }
+
+    .banner-section .hero-text h1 {
+        font-size: 64px;
+        margin-bottom: 20px;
+    }
+
+    .banner-section .hero-text h1 span {
+        font-size: 74px;
+    }
+
+    .banner-section .hero-text p {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .side-image {
+        top: 983px;
+    }
+
+
+}
+
+@media only screen and (max-width: 991px) {
+
+    .banner-img {
+        height: 50vh;
+    }
+
+    .top-seader-section {
+        padding: 6px 0;
+        background-color: #267988db;
+        opacity: 1;
+    }
+
+    .container {
+        padding-inline: 30px;
+    }
+
+    .menu-section {
+        padding: 0px 0;
+    }
+
+    .menu-section .logo-block {
+        width: 50px;
+    }
+
+    .stellarnav .menu-toggle span.bars span {
+        display: block;
+        width: 28px;
+        height: 3px;
+        border-radius: 3px;
+        background:var(--primary-color);
+        margin: 0 0 4px;
+    }
+
+    .stellarnav .menu-toggle {
+        padding: 0px;
+    } 
+
+    .menu-section .right-block a {
+        font-size: 14px;
+        padding: 11px 11px;
+    }
+
+    .banner-section .hero-text {
+        margin-top: 35px;
+    }
+
+    .banner-section .hero-text h1 {
+        font-size: 53px;
+        margin-bottom: 15px;
+    }
+
+    .banner-section .hero-text h1 span {
+        font-size: 54px;
+    }
+
+    .banner-section .hero-text p {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    .banner-section .hero-text a {
+        padding: 11px 15px;
+        font-size: 15px;
+    }
+
+    .buttom-card-section .all-card .card .text-block p {
+        font-size: 13px;
+    }
+
+    .buttom-card-section .all-card .card .text-block h5 {
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    .about-section .left-block {
+        z-index: 9;
+    }
+
+    .about-section  .right-block  .mission-block {
+        display: none;
+    }
+
+    .about-section  .right-block p {
+        margin-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+     
+    .container {
+        padding-inline: 15px;
+    }
+
+    element.style {
+        font-size: 12px;
+    }
+
+    .top-seader-section .left-block .left {
+        padding: 0;
+        margin-right: 5px;
+    }
+
+    .top-seader-section .left-block .left i {
+        font-size: 14px;
+        margin-right: 4px;
+    }
+
+    .top-seader-section .left-block .right i {
+        font-size: 16px;
+        margin-right: 7px;
+    }
+
+    element.style {
+        font-size: 12px;
+    }
+
+    .top-seader-section .left-block .left i {
+        font-size: 14px;
+        margin-right: 4px;
+    }
+
+    .top-seader-section .right-block i {
+        font-size: 16px;
+        margin-right: 2px;
+    }
+
+    .menu-section .right-block a {
+        font-size: 14px;
+        padding: 9px 11px;
+    }
+
+    .banner-section .hero-text h1 {
+        font-size: 41px;
+    }
+
+    .banner-section .hero-text h1 span {
+        font-size: 41px;
+    }
+
+    .banner-section .hero-text {
+        max-width: 54%;
+        margin-top: 28px;
+    }
+
+    .banner-img {
+        height: 46vh;
+    }
+    .buttom-card-section .all-card {
+        top: -39px;
+    }
+
+    .buttom-card-section .all-card .card {
+        padding: 7px;
+    }
+
+    .buttom-card-section .all-card .card .icon-block {
+        height: 40px;
+        width: 40px;
+    }
+
+    .buttom-card-section .all-card .card .text-block h5 {
+        padding: 8px 0 0 0;
+        margin-bottom: 7px;
+    }
+
+    .about-section {
+        padding-top: 50px !important;
+    }
+
+    .about-section .d-flex{
+        display: block;
+        z-index: 100;
+        position: relative;
+        
+    }
+
+    .about-section .d-flex .left-block{
+        display: flex;
+        justify-content: center;
+        gap: 0;
+        
+    }
+
+    .about-section .d-flex .right-block{
+        padding-top: 30px;
+    }
+
+    .about-section .right-block h3 {
+        font-size: 32px;
+        margin-bottom: 15px;
+        position: relative;
+        text-align: center;
+        display: block;
+        max-width: 100%;
+        padding-top: 20px;
+    }
+
+    .about-section  .right-block p {
+        font-size: 13px;
+        margin-bottom: 30px;
+        text-align: center;
+        display: block;
+        max-width: 100%;
+    }
+
+
+    .about-section .d-flex .right-block{
+        display: block;
+        justify-content: center;
+    }
+
+    .about-section .d-flex .right-block > a{
+        display: block;
+        width: 200px;
+        margin: 0 auto; 
+        padding: 15px 25px;
+        text-align: center;
+    }
+
+    .populer-courses-section {
+        padding-top: 30px;
+    }
+
+    .populer-courses-section .all-content .all-card  .card  .text-block h4 {
+        font-size: 16px;
+        font-weight: 500;
+        margin-top: 20px;
+    }
+
+    .populer-courses-section  .all-content .all-card .card .price-block .details-button p {
+        font-size: 12px;
+        font-weight: 600;
+    }
+
+    .populer-courses-section .all-content .all-card .card .price-block {
+        padding: 0 10px;
+    }
+
+    .populer-courses-section .all-content .slide-circle {
+        left: 191px;
+        display: none;
+    }
+
+    .populer-courses-section  .all-content .slide-circle-2 {
+        right: 191px;
+        display: none;
+    }
+
+    .populer-courses-section .all-content a {
+        margin-top: 30px;
+    }
+
+    .populer-courses-section .all-content .all-card .card .price-block h6 span {
+        font-size: 13px;
+        font-weight: 500;
+    }
+
+    .our-achievers-section {
+        padding-top: 30px;
+    }
+
+    .our-achievers-section .all-card .card .img-block {
+        width: 95px;
+        height: 95px;
+    }
+
+    .our-achievers-section .all-card .height-box {
+        height: 55px;
+    }
+
+    .our-achievers-section .all-card .card .text-block h6 {
+        font-size: 20px;
+        font-weight: 500;
+        padding-top: 7px;
+    }
+
+    .our-achievers-section .all-card .card .text-block p {
+        font-size: 13px;
+        padding-top: 8px;
+    }
+
+    .our-experienced-staffs-section {
+        padding: 30px 0;
+    }
+
+    .populer-courses-section .all-content  .slick-next i {
+        top: 200px;
+    }
+
+    .populer-courses-section  .all-content .slick-prev i {
+        top: 200px;
+    }
+
+    .job-updates-section {
+        padding: 15px 0 50px 0;
+    }
+
+    .job-updates-section .all-card .card .icon-block {
+        left: 423px;
+    }
+
+}
+
+@media only screen and (max-width: 575px) {
+    
+    .banner-img {
+        height: 41vh;
+    }
+    .top-seader-section .right-block i {
+        font-size: 16px;
+        margin-right: 1px;
+    }
+
+    .top-seader-section .right-block p {
+        font-size: 11px;
+    }
+
+    .top-seader-section .left-block .right p {
+        font-size: 11px;
+    }
+
+    .top-seader-section .left-block .left p {
+        font-size: 11px;
+    }
+
+    .menu-section .right-block a {
+        padding: 8px 13px;
+    }
+    
+    .banner-section .hero-text {
+        max-width: 72%;
+        margin-top: 20px;
+    }
+
+    .banner-section .hero-text h1 {
+        font-size: 40px;
+    }
+
+    .banner-section .hero-text h1 span {
+        font-size: 41px;
+    }
+
+    .banner-section .hero-text p {
+        font-size: 13px;
+    }
+
+    .banner-section .hero-text p {
+        font-size: 13px;
+    }
+
+    .banner-section .hero-text a {
+        padding: 9px 13px;
+        font-size: 14px;
+    }
+
+    .buttom-card-section .all-card {
+        top: 13px;
+        gap: 15px;
+    }
+
+    .about-section {
+        padding-top: 105px !important;
+    }
+
+    .about-section .right-block h3 {
+        font-size: 27px;
+        margin-bottom: 10px;
+        padding-top: 15px;
+    }
+
+    .about-section  .right-block p {
+        margin-bottom: 20px;
+    }
+
+    .about-section .d-flex .right-block > a {
+        width: 171px;
+        padding: 15px 25px;
+        font-size: 16px;
+    }
+
+    .populer-courses-section {
+        padding-top: 20px;
+    }
+
+    .populer-courses-section .all-content h3 {
+        font-size: 27px;
+        font-weight: 600;
+    }
+
+    .populer-courses-section .all-content .all-card {
+        margin-top: 25px;
+    }
+
+    .populer-courses-section .all-content .all-card .card {
+        width: 335px;
+    }
+
+    .slick-initialized .slick-slide {
+        display: flex;
+        justify-content: center;
+    }
+
+    .populer-courses-section  .all-content .all-card .card .price-block .details-button p {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .populer-courses-section .all-content .all-card .card .price-block h6 span {
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .populer-courses-section .all-content .all-card .card .price-block {
+        margin-top: 10px;
+    }
+
+    .our-achievers-section {
+        padding-top: 20px;
+    }
+
+    .our-achievers-section h3 {
+        font-size: 27px;
+        font-weight: 600;
+        margin-bottom: 20px;
+    }
+
+    .our-achievers-section .all-card .card .img-block {
+        width: 70px;
+        height: 70px;
+    }
+
+    .our-achievers-section .all-card .card .text-block h6 {
+        font-size: 17px;
+        font-weight: 500;
+        padding-top: 5px;
+    }
+
+    .our-achievers-section .all-card .card .text-block p {
+        font-size: 12px;
+        padding-top: 8px;
+    }
+
+    .our-achievers-section .all-card .height-box {
+        height: 40px;
+        margin-top: 86px;
+    }
+
+    .our-experienced-staffs-section {
+        padding: 25px 0;
+    }
+
+    .our-experienced-staffs-section h3 {
+        font-size: 27px;
+        font-weight: 600;
+        margin-bottom: 45px;
+    }
+    
+    .job-updates-section h3 {
+        font-size: 27px;
+        font-weight: 600;
+        margin-bottom: 20px;
+    }
+
+    .job-updates-section .all-card .card .icon-block {
+        left: 579px;
+    }
+
+    .job-updates-section .all-card .card .text-block h4 {
+        font-size: 20px;
+        font-weight: 500;
+        padding-top: 10px;
+    }
+
+    .job-updates-section .all-card .card .text-block p {
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 1.12;
+        padding-top: 10px;
+    }
+
+    .job-updates-section .all-card .card {
+        padding: 10px;
+    }
+
+    .contact-us-section {
+        padding: 20px 0;
+    }
+
+    .contact-us-section  .all-content {
+        padding: 10px;
+    }
+
+    .contact-us-section h3 {
+        font-size: 27px;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+
+    .contact-us-section form .form-div input {
+        padding: 10px;
+    }
+
+    .contact-us-section form button {
+        font-size: 16px;
+        padding: 10px;
+        margin-top: 27px;
+    }
+
+    .margin-bottom-10 {
+        margin-bottom: 5px;
+    }
+
+    .job-updates-section .all-card .card .icon-block {
+        left: 693px;
+    }
+
+    .footer-section .all-content {
+        display: block;
+    }
+
+    .footer-section .all-content .left-block .logo-block {
+        margin: 0 auto;
+    }
+
+    .footer-section .all-content .middle-block h6 {
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .footer-section .all-content .middle-block ul li {
+        text-align: center;
+    }
+
+    .footer-section .all-content .right-block {
+        margin-top: 20px;
+    }
+
+    .footer-section .all-content .right-block  .d-flex.mb-20 {
+        justify-content: center;
+    }
+
+    .footer-section .all-content .right-block .icons {
+        display: flex;
+        justify-content: center;
+    }
+
+    .copyright p {
+        text-align: center;
+    }
+
+    
+}
+
+@media only screen and (max-width: 480px) {
+    .top-seader-section .right-block i {
+        font-size: 9px;
+        margin-right: 1px;
+    }
+
+    .top-seader-section .left-block .right i {
+        font-size: 11px;
+        margin-right: 3px;
+    }
+
+    .top-seader-section .left-block .left i {
+        font-size: 12px;
+        margin-right: 3px;
+    }
+
+    .top-seader-section .left-block .left p {
+        font-size: 10px;
+    }
+    
+    .top-seader-section .left-block .right p {
+        font-size: 10px;
+    }
+
+    .top-seader-section .right-block p {
+        font-size: 10px;
+    }
+
+    .menu-section .right-block a {
+        padding: 7px 8px;
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    .banner-img {
+        background-position: right;
+        
+    }
+
+    .buttom-card-section .all-card {
+        display: block;
+        padding: 1px 0;
+    }
+
+    .buttom-card-section .all-card .card {
+        margin-top: 15px;
+    }
+
+    .about-section {
+        padding-top: 410px !important;
+    }
+
+    .about-section .right-block h3 {
+        font-size: 23px;
+        margin-bottom: 8px;
+        padding-top: 12px;
+    }
+
+    .about-section .d-flex .right-block > a {
+        width: 153px;
+        padding: 11px 15px;
+        font-size: 15px;
+    }
+
+    .about-section  .right-block p {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+
+    .populer-courses-section .all-content h3 {
+        font-size: 24px;
+    }
+
+    .populer-courses-section .all-content a {
+        margin-top: 20px;
+    }
+
+    .our-achievers-section h3 {
+        font-size: 24px;
+        margin-bottom: 12px;
+    }
+
+    .our-achievers-section .all-card {
+        display: block;
+    }
+
+    .our-achievers-section .all-card .height-box {
+        height: 2px;
+        width: 50px;
+        align-items: center;
+        display: block;
+        width: 100%;
+        margin-top: 13px;
+    }
+
+    .our-achievers-section .all-card .card {
+        margin-top: 15px;
+    }
+
+    .our-achievers-section .all-card .card .img-block {
+        width: 129px;
+        height: 130px;
+    }
+
+    .our-achievers-section .all-card .card .text-block h6 {
+        font-size: 20px;
+        font-weight: 600;
+        padding-top: 8px;
+    }
+
+    .our-achievers-section .all-card .card .text-block p {
+        font-size: 14px;
+        padding-top: 8px;
+    }
+
+    .our-experienced-staffs-section h3 {
+        font-size: 24px;
+        margin-bottom: 48px;
+    }
+
+    .our-experienced-staffs-section .all-card .card {
+        border-radius: 20px;
+        margin: 0 5px;
+    }
+
+    .our-experienced-staffs-section .all-card .card .img-block {
+        padding: 0;
+        margin: 0;
+        border-radius: 10px;
+        overflow: hidden;
+    }
+
+    .our-experienced-staffs-section .all-card .card .text-block h6 {
+        font-size: 16px;
+        padding-top: 9px;
+    }
+
+    .our-experienced-staffs-section .all-card .card .text-block p {
+        font-size: 12px;
+        padding-top: 5px;
+    }
+
+    .job-updates-section h3 {
+        font-size: 24px;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+
+    .job-updates-section .all-card .card .img-block {
+        width: 100px;
+        height: 100px;
+        margin-top: -61px;
+    }
+
+    .job-updates-section .all-card .card .icon-block {
+        left: 584px;
+        top: -44px;
+    }
+
+    .contact-us-section .all-content .d-flex.gap-30 {
+        display: block;
+    }
+}
+
+
+@media only screen and (max-width: 414px) {
+    .container {
+        padding-inline: 5px;
+    }
+
+    .top-seader-section .left-block .left p {
+        font-size: 9px;
+    }
+
+    .container {
+        padding-inline: 10px;
+    }
+
+    .stellarnav .menu-toggle {
+        padding: 5px;
+    }
+
+    .top-seader-section .left-block .right p {
+        font-size: 9px;
+    }
+
+    .top-seader-section .right-block p {
+        font-size: 9px;
+    }
+
+    .menu-section .right-block a {
+        padding: 7px 8px;
+        font-weight: 400;
+        font-size: 11px;
+    }
+
+    .about-section .d-flex .right-block {
+        padding-top: 20px;
+    }
+
+    .side-image {
+        top: 1180px;
+    }
+
+    .about-section .left-block .video-block {
+        display: none;
+    }
+
+    .about-section .left-block .height-box {
+        display: none;
+    }
+
+    .about-section .d-flex .right-block {
+        padding-top: 0px;
+    }
+
+    .banner-img {
+        height: 45vh;
+    }
+
+    .our-achievers-section .all-card {
+        display: block;
+        position: relative;
+        z-index: 9;
+    }
+
+    .job-updates-section .all-card .card .icon-block {
+        left: 524px;
+        top: -44px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .banner-img {
+        height: 38vh;
+    }
+
+    .container {
+        padding-inline: 6px;
+    }
+
+    .top-seader-section .left-block {
+        flex-wrap: wrap;
+    }
+
+    .top-seader-section {
+        padding: 3px 0;
+    }
+
+    .menu-section .right-block a {
+        padding: 5px 3px;
+        text-align: center;
+    }
+
+    .banner-section .hero-text h1 {
+        font-size: 33px;
+    }
+
+    .banner-section .hero-text h1 span {
+        font-size: 35px;
+    }
+
+    .banner-section .hero-text p {
+        font-size: 11px;
+    }
+
+    .banner-section .hero-text a {
+        padding: 7px 11px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .about-section .left-block .video-block {
+        display: none;
+    }
+
+    .about-section .left-block .height-box {
+        display: none;
+    }
+
+    .about-section .d-flex .right-block {
+        padding-top: 50px;
+    }
+
+    .top-seader-section .right-block p {
+        font-size: 9px;
+    }
+
+    .top-seader-section .left-block .left p {
+        font-size: 8px;
+    }
+
+    .top-seader-section .left-block .right p {
+        font-size: 8px;
+    }
+
+    .banner-img {
+        height: 40vh;
+    }
+
+    .job-updates-section .all-card .card .icon-block {
+        left: 442px;
+        top: -44px;
+    }
+
+    .our-experienced-staffs-section .all-card .card .text-block h6 {
+        font-size: 13px;
+        padding-top: 6px;
+    }
+
+    .our-experienced-staffs-section .all-card .card .text-block p {
+        font-size: 10px;
+        padding-top: 3px;
+    }
+
+    .our-experienced-staffs-section .all-card i.bx.bx-chevron-left {
+        padding: 3px 7px;
+        position: absolute;
+        top: -31px;
+        right: 68px;
+    }
+
+    .our-experienced-staffs-section .all-card i.bx.bx-chevron-right {
+        padding: 3px 7px;
+        position: absolute;
+        top: -31px;
+        right: 23px;
+    }
+
+ 
+}
+
+@media only screen and (max-width: 320px) {
+    .banner-img {
+        height: 35vh;
+    }
+
+    .menu-section .right-block a {
+        padding: 4px 3px;
+        font-size: 10px;
+
+    }
+
+    .banner-section .hero-text h1 span {
+        font-size: 30px;
+    }
+
+    .banner-section .hero-text h1 {
+        font-size: 28px;
+    }
+
+    .banner-section .hero-text h1 {
+        margin-bottom: 5px;
+    }
+
+    .about-section .left-block .video-block {
+        display: none;
+    }
+
+    .about-section .left-block .height-box {
+        display: none;
+    }
+
+    .job-updates-section .all-card .card .icon-block {
+        left: 412px;
+        top: -44px;
+    }
+}
+
+
+
+/*
+Breakpoints
+1600px
+1440px
+1366px
+1280px
+1024px
+991px
+767px
+575px
+480px
+414px
+375px
+320px
+300px
+
+*/
